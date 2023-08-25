@@ -1,0 +1,2 @@
+2 D Dp 
+Beautiful String --> Using two variables have not have case / pick not pick
